@@ -1,0 +1,6 @@
+Datapack: Wardens
+Author: MCLegoMan
+
+Contributors:
+MCLegoMan - Developer
+JudgeAlexander - Idea
