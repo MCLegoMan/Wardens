@@ -1,0 +1,15 @@
+Datapack: Wardens
+Author: MCLegoMan
+
+Contributors:
+MCLegoMan - Developer
+JudgeAlexander - Idea
+
+ChangeLog:
+1.0.2:
+ - Added warden spawning check to prevent warden suffocation.
+ - Inverted actionbar tag. (You will now need to run the command to see the actionbar message.)
+1.0.1:
+ - Added tag to remove actionbar
+1.0.0:
+ - Initial release
