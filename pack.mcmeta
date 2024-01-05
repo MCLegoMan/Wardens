@@ -1,0 +1,7 @@
+{
+	"pack": {
+		"pack_format": 10,
+		"supported_formats": {"min_inclusive": 10, "max_inclusive": 2147483647},
+		"description": [{"text":"Wardens v1.1.0","color":"gray"}]
+	}
+}
