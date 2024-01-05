@@ -1,9 +1,0 @@
-Datapack: Wardens
-Author: MCLegoMan
-
-Contributors:
-MCLegoMan - Developer
-JudgeAlexander - Idea
-
-ChangeLog:
-1.0.1: Added tag to remove actionbar
