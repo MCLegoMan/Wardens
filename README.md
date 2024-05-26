@@ -5,7 +5,8 @@ This datapack replaces all hostile mobs with the Warden, with the exception of B
 #  
 ### This datapack was created for [JudgeAlexander](https://youtube.com/@JudgeAlex)'s [Minecraft, but EVERY mob is the Warden](https://www.youtube.com/watch?v=StjjgrTdLYY) video.  
 **If you use this datapack for content, please credit [JudgeAlexander](https://youtube.com/@JudgeAlex) for the idea.**  
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/StjjgrTdLYY" title="Minecraft, but EVERY mob is the Warden - @JudgeAlex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![Minecraft, but EVERY mob is the Warden - @JudgeAlex](https://img.youtube.com/vi/StjjgrTdLYY/default.jpg)](https://youtu.be/StjjgrTdLYY)
 
 # FAQ  
 - **Q:** How can I modify what entities get replaced with the Warden?  
